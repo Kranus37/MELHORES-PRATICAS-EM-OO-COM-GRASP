@@ -1,6 +1,4 @@
-/**
- * Classe que representa um Produto.
- */
+//Classe que representa um Produto
 public class Produto {
     private String nome;
     private double preco;
